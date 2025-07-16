@@ -17,4 +17,4 @@ This project is a basic **Digital Payment Transfer System** developed using **PH
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
-- **Web Server:** Apache via XAMPP
+- **Web Server:** Apache via WAMP 3.3.1
