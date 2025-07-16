@@ -1,0 +1,7 @@
+.form-check {
+    margin-bottom: 1rem; /* Adjust this value to decrease the space */
+}
+
+.mb-0 {
+    margin-top: 0; /* Ensure there's no top margin on the <p> tag */
+}
